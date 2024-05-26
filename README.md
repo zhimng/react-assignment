@@ -26,4 +26,4 @@
 
 ## 预览地址
 
-待定。。。。
+https://react-assignment-two-sigma.vercel.app/
